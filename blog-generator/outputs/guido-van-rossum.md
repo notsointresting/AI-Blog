@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![Guido van Rossum](https://upload.wikimedia.org/wikipedia/commons/6/66/Guido_van_Rossum_OSCON_2006.jpg)
+<p align=center><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Guido_van_Rossum_OSCON_2006.jpg" width=500 height=700></p>
 
 Ah, Guido van Rossum, the man behind Python. If programming languages were ice cream flavors, Python would be that delightful, creamy scoop of vanilla that everyone loves because it's both simple and versatile. Let's delve into the mind of the man who made programming as fun as a barrel of monkeys.
 
