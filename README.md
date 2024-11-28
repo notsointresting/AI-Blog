@@ -1,5 +1,23 @@
 # Instructions for Running the Blog Generator
 
+## Quick Links
+
+### [Example 1: Elon Musk's Twitter Adventures](outputs/elon-musk.md)
+A humorous take on Elon Musk's acquisition and transformation of Twitter into X.
+
+### [Example 2: The Python Creator's Tale](outputs/guido-van-rossum.md)
+A witty exploration of how Guido van Rossum created Python and became the BDFL.
+
+## Directory Structure
+```
+blog-generator/
+├── main.py
+└── outputs/
+    ├── elon-musk.md
+    └── guido-van-rossum.md
+```
+
+
 ## Prerequisites
 1. Python 3.7 or higher installed on your system
    - Download from: https://www.python.org/downloads/
@@ -35,6 +53,7 @@ pip install openai
 2. Open a terminal/command prompt
 3. Navigate to the directory containing `main.py`
 4. Run the script:
+
    ```
    python main.py
    ```
