@@ -64,7 +64,7 @@ Remember: Your goal is to make learning fun while still being informative!"""
         print("="*50)
         
     except Exception as e:
-        print(f"\nOops! Seems my humor circuit had a hiccup: {str(e)}")
+        print(f"\nOops! Seems I got error: {str(e)}")
 
 if __name__ == "__main__":
     generate_blog()
