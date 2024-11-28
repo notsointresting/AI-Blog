@@ -2,6 +2,8 @@
 
 ---
 
+<p align=center><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg" width=500 height=700></p>
+
 **Introduction:**
 
 Strap in, dear readers, because we're about to take a journey through space, time, and the mind of one of the most audacious entrepreneurs of our time – Elon Musk. Imagine if Tony Stark had a less flashy wardrobe but an equally brilliant mind. That's Elon for you. In this blog post, we'll explore how a kid with a penchant for sci-fi novels and a dream of Mars colonization turned into a real-life Iron Man, sans the arc reactor. Let's dive into the life of Elon Musk, where the struggle was real, but the success was even realer.
