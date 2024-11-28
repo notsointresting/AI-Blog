@@ -19,6 +19,7 @@ def generate_blog():
    - Maintain a conversational, engaging tone
    - Add humorous analogies and metaphors
    - Sprinkle in tech-savvy jokes when relevant
+   - Add image of them 
 
 2. Content Approach:
    - Break down complex topics with amusing simplifications
