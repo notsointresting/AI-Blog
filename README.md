@@ -2,10 +2,10 @@
 
 ## Quick Links
 
-### [Example 1: Elon Musk's Twitter Adventures](outputs/elon-musk.md)
+### [Example 1: Elon Musk's Twitter Adventures](blog-generator/outputs/elon-musk.md)
 A humorous take on Elon Musk's acquisition and transformation of Twitter into X.
 
-### [Example 2: The Python Creator's Tale](outputs/guido-van-rossum.md)
+### [Example 2: The Python Creator's Tale](blog-generator/outputs/guido-van-rossum.md)
 A witty exploration of how Guido van Rossum created Python and became the BDFL.
 
 ## Directory Structure
